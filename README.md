@@ -2,4 +2,4 @@
 
 Spin the wheel and find out!
 
-https://jigglycrumb.github.io/what-would-a-pirate-do
+https://jigglycrumb.github.io/what-would-a-pirate-do/
