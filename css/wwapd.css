@@ -2,7 +2,7 @@
   font-family: 'Trade Winds';
   font-style: normal;
   font-weight: 400;
-  src: local('Trade Winds'), local('TradeWinds'), url(../fonts/TradeWinds.woff) format('woff'), url(../fonts/TradeWinds.ttf) format('truetype');
+  src: local('Trade Winds'), local('TradeWinds'), url(./fonts/TradeWinds.woff) format('woff'), url(./fonts/TradeWinds.ttf) format('truetype');
 }
 * {
   margin: 0;
