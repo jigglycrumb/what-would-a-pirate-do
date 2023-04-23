@@ -1,8 +1,6 @@
 # What would a pirate do?
 
-Imagine this everyday situation: You’re in need of a decision and ask yourself: What would a pirate do?
-
-No worries matey, here comes the solution - just spin the wheel and find out!
+Spin the wheel and find out!
 
 https://whatwouldapiratedo.info
 
